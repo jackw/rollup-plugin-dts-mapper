@@ -16,7 +16,7 @@ importers:
         version: 9.6.0
       globals:
         specifier: ^15.8.0
-        version: 15.8.0
+        version: 15.15.0
       rollup:
         specifier: ^2.0.0
         version: 2.79.1
@@ -515,8 +515,8 @@ packages:
     resolution: {integrity: sha512-oahGvuMGQlPw/ivIYBjVSrWAfWLBeku5tpPE2fOPLi+WHffIWbuh2tCjhyQhTBPMf5E9jDEH4FOmTYgYwbKwtQ==}
     engines: {node: '>=18'}
 
-  globals@15.8.0:
-    resolution: {integrity: sha512-VZAJ4cewHTExBWDHR6yptdIBlx9YSSZuwojj9Nt5mBRXQzrKakDsVKQ1J63sklLvzAJm0X5+RpO4i3Y2hcOnFw==}
+  globals@15.15.0:
+    resolution: {integrity: sha512-7ACyT3wmyp3I61S4fG682L0VA2RGD9otkqGJIwNUMF1SWUombIIk+af1unuDYgMm082aHYwD+mzJvv9Iu8dsgg==}
     engines: {node: '>=18'}
 
   has-flag@4.0.0:
@@ -1312,7 +1312,7 @@ snapshots:
 
   globals@14.0.0: {}
 
-  globals@15.8.0: {}
+  globals@15.15.0: {}
 
   has-flag@4.0.0: {}
 
